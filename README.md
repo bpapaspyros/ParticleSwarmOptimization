@@ -1,4 +1,4 @@
-# Simple-Particle-Swarm-Optimization
+# Particle Swarm Optimization
 
 Pretty simple implementation of the particle swarm optimization algorithm. The actual algorithm has been tweaked a little in order to make better predictions (at least that was the case during experiments).
 
